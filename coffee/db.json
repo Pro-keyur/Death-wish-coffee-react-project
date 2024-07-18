@@ -1,0 +1,199 @@
+{
+    "product":[
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Ice_Breaker_10oz_Ground_Angle_DTC_A1_1.jpg?v=1717603612&width=533",
+            "title":"ICE BREAKER COFFEE",
+            "price":"$13.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Ice_Breaker_Bundle_Rendering_A2.jpg?v=1718367461&width=533",
+            "title":"ICE BREAKER BUNDLE",
+            "price":"$50"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Vanilla_14oz_Ground_Angle_A1_40a88ad7-b803-4ab4-a753-ce4d2b56f764.jpg?v=1707504956&width=533",
+            "title":"VANILLA COFFEE",
+            "price":"$19.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Vanilla_10ct_Angle_Vertical_Pods_A1-_1_cba84769-caf9-4341-9d94-a1f3552435aa.jpg?v=1707505044&width=533",
+            "title":"VANILLA SINGLE-SERVE PODS",
+            "price":"$15.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Chocolate_Hazelnut_14oz_Ground_Angle_A1_963d87a8-ec42-42fb-8b8d-8e21d32ff6d2.jpg?v=1707505386&width=533",
+            "title":"CHOCOLATE HAZELNUT COFFEE",
+            "price":"$19.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Chocolate_Hazelnut_10ct_Angle_Vertical_Pods_A1_097b3690-6705-45ca-afa8-1b3ffa652157.jpg?v=1707505489&width=533",
+            "title":"CHOCOLATE HAZELNUT SINGLE-SERVE PODS",
+            "price":"$15.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Double_Indulgence_Ground_Angle_A1_5215f79e-75e1-4371-a199-84fe4179981d.jpg?v=1707503631&width=533",
+            "title":"DOUBLE INDULGENCE GROUND COFFEE",
+            "price":"$39.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Double_Indulgence_Cups_Angle_f9e40cbd-d8fa-49b9-821f-25c779b34326.jpg?v=1707503716",
+            "title":"DOUBLE INDULGENCE SINGLE-SERVE PODS BUNDLE",
+            "price":"$31.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Dark-Roast-Espresso-Capsule_b771ec96-b91b-4945-9189-7c707e43a1bc.jpg?v=1707501877&width=533",
+            "title":"DARK ROAST ESPRESSO CAPSULES",
+            "price":"$12.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_Nespresso_10ct_Angle_Pods_PDP_A2-_2.jpg?v=1714133649&width=533",
+            "title":"MEDIUM ROAST ESPRESSO CAPSULES",
+            "price":"$12.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Espresso_Roast_Nespresso_10ct_Angle_Pods_PDP_A2-_3.jpg?v=1714133601&width=533",
+            "title":"ESPRESSO ROAST ESPRESSO CAPSULES",
+            "price":"$12.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Core_Nespresso_10ct_Angle_Pods_A1-_1.jpg?v=1714133698&width=533",
+            "title":"TRIPLE THREAT ESPRESSO CAPSULE BUNDLE",
+            "price":"29.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Almond_Afterlife_14oz_Ground_Angle_DTC_A1.jpg?v=1711109300&width=533",
+            "title":"ALMOND AFTERLIFE COFFEE",
+            "price":"$19.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_16oz_Ground_Angle_A1-_3.jpg?v=1707501545&width=533",
+            "title":"DARK ROAST COFFEE",
+            "price":"$19.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_10ct_Angle_Vertical_Pods_A1-_2_80a7a931-d037-40d3-a7aa-0a05df7f2e6f.jpg?v=1707502124&width=533",
+            "title":"DARK ROAST SINGLE-SERVE PODS",
+            "price":"$14.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_16oz_Ground_Angle_A1_8f8a7b97-f418-4bc8-bfcd-bd551950b3b3.jpg?v=1707502500&width=533",
+            "title":"MEDIUM ROAST COFFEE",
+            "price":"$19.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_10ct_Angle_Vertical_Pods_A1_97237db9-e69a-418f-b5da-ac7e01acb8ec.jpg?v=1707502646&width=533",
+            "title":"MEDIUM ROAST SINGLE-SERVE PODS",
+            "price":"$14.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Blue_and_Buried_Ground_Angle_A1_5be9cffc-ed75-46b2-af52-4e0b08dd92f2.jpg?v=1707504782&width=533",
+            "title":"BLUE AND BURIED COFFEE",
+            "price":"$19.99"    
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Blue_and_Buried_10ct_Angle_Vertical_Pods_A1_8fa5232a-e828-4884-af5c-2f9e1a28da10.jpg?v=1707504864&width=533",
+            "title":"BLUE AND BURIED SINGLE-SERVE PODS",
+            "price":"$15.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Espresso_Roast_14oz_Ground_Angle_A1_b1e21a42-82de-4fc0-8f67-c3a3644622b6.jpg?v=1707502254&width=533",
+            "title":"ESPRESSO ROAST COFFEE",
+            "price":"$19.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Espresso_10ct_Angle_Vertical_A1_4c1255f8-be18-4c92-9970-4bf4cfaefc28.jpg?v=1707502393&width=533",
+            "title":"ESPRESSO ROAST SINGLE-SERVE PODS",
+            "price":"$14.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Instant_8ct_Stick_Angle_A2-_1.jpg?v=1707501896&width=533",
+            "title":"DARK ROAST INSTANT COFFEE",
+            "price":"$11.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Valhalla_Java_12oz_Ground_Front_A1_cb308cfd-e769-4dc4-a92b-01539720d68b.jpg?v=1707502729&width=533",
+            "title":"VALHALLA JAVA ODINFORCE BLEND",
+            "price":"$15.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Valhalla_Java_10ct_Angle_Vertical_Pods_A1_cc2223fe-fa4d-43de-b206-35f23516a82b.jpg?v=1707502673&width=533",
+            "title":"VALHALLA JAVA SINGLE-SERVE PODS",
+            "price":"$14.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Medium_Roast_16oz_Ground_Angle_A1_5d4d972b-f502-4b41-8ebe-d0f28413196b.jpg?v=1707503317&width=533",
+            "title":"DARK ROAST + MIDIUM ROAST BUNDLE",
+            "price":"$39.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Medium_Roast_Cups_Bundle_1ee4fb47-a372-4be5-83c8-f116768104ba.jpg?v=1707503380&width=533",
+            "title":"DARK ROAST + MIDIUM ROAST SINGLE-SERVE PODS BUNDLE",
+            "price":"$29.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Valhalla_Java_Ground_Angle_A1_57471881-5255-4f05-8e04-124dd0b02a82.jpg?v=1714669236&width=533",
+            "title":"DARK ROAST + VALHALLA JAVA BUNDLE",
+            "price":"$35.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Valhalla_Java_Cups_Bundle_54e5df18-cf9b-4baf-a8c4-ba4bd6a181a6.jpg?v=1707503544&width=533",
+            "title":"DARK ROAST + VALHALLA JAVA SINGLE-SERVE PODS BUNDLE",
+            "price":"$29.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Espresso_Roast_Ground_Angle_A1_e92fcdf4-9966-4073-b63d-a202d9309e4e.jpg?v=1707503158&width=533",
+            "title":"DARK ROAST + ESPRESSO ROAST BUNDLE",
+            "price":"$39.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Espresso_Roast_Cups_Bundle_7927b93b-8074-42b9-8d5e-adb2d2c0ba8e.jpg?v=1707503245&width=533",
+            "title":"DARK ROAST + ESPRESSO ROAST SINGLE-SERVE PODS BUNDLE",
+            "price":"$29.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Espresso_Roast_Medium_Roast_Ground_Angle_A1_24d73ada-554e-4f99-bca9-794473742d3b.jpg?v=1707504202&width=533",
+            "title":"ESPRESSO ROAST + MIDIUM ROAST BUNDLE",
+            "price":"$39.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Espresso_Roast_Medium_Roast_Cups_Bundle_70a1144d-c81f-46e3-8a76-ecd5efe602fc.jpg?v=1707504261&width=533",
+            "title":"ESPRESSO ROAST + MIDIUM ROAST SINGLE-SERVE PODS BUNDLE",
+            "price":"$29.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Espresso_Roast_Valhalla_Java_Ground_Angle_A1_e8057818-31b1-49ce-92c6-902c6787524b.jpg?v=1707504405&width=533",
+            "title":"ESPRESSO ROAST + VALHALLA JAVA BUNDLE",
+            "price":"$35.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Valhalla_Java_Espresso_Roast_Death_Cup_Bundle_28d5e09c-1e2c-4f91-94cc-efb3dac9da61.jpg?v=1707504447&width=533",
+            "title":"ESPRESSO ROAST + VALHALLA JAVA SINGLE-SERVE PODS BUNDLE",
+            "price":"$29.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_Valhalla_Java_Ground_Angle_A1_a5bd68f1-92c6-4b1a-8d6d-79182a483398.jpg?v=1707504633&width=533",
+            "title":"MIDIUM ROAST + VALHALLA JAVA BUNDLE",
+            "price":"$35.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_Valhalla_Java_Cups_Bundle_be91591d-9dde-4425-9fdb-995d53bed657.jpg?v=1707504676&width=533",
+            "title":"MIDIUM ROAST + VALHALLA JAVA SINGLE-SERVE PODS BUNDLE",
+            "price":"$29.98"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Triple_Threat_Coffee_Bundle_Ground-_1.jpg?v=1707501096&width=533",
+            "title":"TRIPLE THREAT COFFEE BUNDLE",
+            "price":"$54.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Triple_Threat_Coffee_Bundle_Vertical_Death_Cups-_1.jpg?v=1707501158&width=533",
+            "title":"TRIPLE THREAT SINGLE-SERVE PODS BUNDLE",
+            "price":"$43.99"
+        },
+        {
+            "image":"https://www.deathwishcoffee.com/cdn/shop/files/Turn_Up_Trio_7d4040a8-01ec-4dac-9118-4ac81bcb6fbb.jpg?v=1707501056&width=533",
+            "title":"TURN UP TRIO BUNDLE",
+            "price":"$35.99"
+        }
+    ]
+}
